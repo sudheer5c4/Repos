@@ -5,6 +5,10 @@ hi this is a simple c prg and
 
 
 
+<<<<<<< Updated upstream
 
 
 -----------------------------------------------------------------------------------
+=======
+sudheer changed for checking git stash
+>>>>>>> Stashed changes
